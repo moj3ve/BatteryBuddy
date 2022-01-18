@@ -1,9 +1,9 @@
-# BatteryBuddy ⚡️
+# Battery Buddy ⚡️
 Battery Indicator, but cute
 
 ## Installation
 1. Add this repository to your package manager: `TBD`
-2. Install BatteryBuddy
+2. Install Battery Buddy
 
 ## Compiling
   - [Theos](https://theos.dev/) is required to compile the project
