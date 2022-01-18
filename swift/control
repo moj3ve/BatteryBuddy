@@ -1,5 +1,5 @@
 Package: love.litten.batterybuddy
-Name: BatteryBuddy ⚡️
+Name: Battery Buddy ⚡️
 Depends: ${ORION}, firmware (>= 13)
 Version: 1.0.2
 Architecture: iphoneos-arm
