@@ -70,7 +70,8 @@ class BatteryViewHook: ClassHook<UIView> {
         
     }
     
-    final func refreshIcon() { // refresh status bar icons
+    // orion:new
+    func refreshIcon() { // refresh status bar icons
         
         // remove existing images
         batteryIconView = UIImageView()
@@ -104,7 +105,8 @@ class BatteryViewHook: ClassHook<UIView> {
         
     }
     
-    final func updateIconColor() {  // add lockscreen battery icons
+    // orion:new
+    func updateIconColor() {  // add lockscreen battery icons
         
         batteryIconView.image = batteryIconView.image?.withRenderingMode(.alwaysTemplate)
         batteryChargerView.image = batteryChargerView.image?.withRenderingMode(.alwaysTemplate)
