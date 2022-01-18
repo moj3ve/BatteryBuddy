@@ -7,10 +7,6 @@ Battery Indicator, but cute
 
 ## Compiling
   - [Theos](https://theos.dev/) is required to compile the project
-    - Objective-C:
-      - No dependencies
-    - Swift:
-      - Depends on Orion
   - You may want to edit the root `Makefile` to use your Theos SDK and toolchain
 
 ## Compatibility
@@ -24,7 +20,5 @@ You may not use this project to make profit like money
 ## Credits
   - Original Creator for macOS
     - [neilsardesai](https://twitter.com/neilsardesai)
-  - Code Improvement For The Swift Version:
-    - [Serena](https://twitter.com/serena_io_t)
   - Icon and Banner
     - [74k1_](https://twitter.com/74k1_)

@@ -1,5 +1,3 @@
 .DS_Store
 .theos
-objective-c/packages
-swift/packages
-.vscode
+/packages
