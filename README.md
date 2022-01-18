@@ -10,7 +10,7 @@ Battery Indicator, but cute
     - Objective-C:
       - No dependencies
     - Swift:
-      - Depends on (legacy) Orion
+      - Depends on Orion
   - You may want to edit the root `Makefile` to use your Theos SDK and toolchain
 
 ## Compatibility
